@@ -14,7 +14,7 @@ Motivated and interested in improving my general knowledge in software developme
 This is my GitHub profile, where you'll be able to have a look at some of my work as a Software Developer. I hope you like it!
 
 * 🌍  I'm based in Asturias, Spain
-* ✉️  You can contact me at [hugoprendes03@gmail.com](mailto:hugoprendes03@gmail.com)
+* ✉️  You can contact me at [hprendes.dev@gmail.com](mailto:hprendes.dev@gmail.com)
 
 ### 👨‍💻 My Languages and Skills:
 
