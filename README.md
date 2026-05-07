@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student at University of Oviedo</h3>
 
 <div>
-  <img src="multimedia/HugoPrendesBanner.png">
+  <img src="multimedia/banner.png">
 </div>
 
 ### 🙋‍♂️ About me:
