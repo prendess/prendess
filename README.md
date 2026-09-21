@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hugo! 🦎</h1>
-<h3 align="center">Software Engineering Student at University of Oviedo</h3>
+<h3 align="center">Software Engineering Student @ University of Oviedo</h3>
 
 <div>
   <img src="multimedia/banner.png">
@@ -7,11 +7,13 @@
 
 ### 🙋‍♂️ About me:
 
-Currently pursuing a degree in Software Engineering at the University of Oviedo. Native level of Spanish and Catalan. English level C1 Advanced (Cambridge). Sprint Canoeing coach (Level 2). Kayaker.
+Final-year Software Engineering student at University of Oviedo.
+Native level of Spanish and Catalan. English level C1 Advanced (Cambridge). 
+Sprint Canoeing coach (Level 2). Kayaker.
 
-Motivated and interested in improving my general knowledge in software development while waiting to find out which area of specialization to focus on in the future. Always willing to work in a team, to share ideas and knowledge and to learn from others.
+Interested in focusing my career on cybersecurity, currently expanding my knowledge in this field through self-taught and academic means. Looking for a first professional opportunity to apply my technical skills and continue developing, preferably in the field of computer security. Always willing to work in a team, to share ideas and knowledge and to learn from others.
 
-This is my GitHub profile, where you'll be able to have a look at some of my work as a Software Developer. I hope you like it!
+This is my GitHub profile, where you'll be able to have a look at some of my work as a Software Engineer. I hope you like it!
 
 * 🌍  I'm based in Asturias, Spain
 * ✉️  You can contact me at [hprendes.dev@gmail.com](mailto:hprendes.dev@gmail.com)
