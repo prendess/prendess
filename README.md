@@ -9,7 +9,7 @@
 
 Final-year Software Engineering student at University of Oviedo.
 Native level of Spanish and Catalan. English level C1 Advanced (Cambridge). 
-Sprint Canoeing coach (Level 2). Kayaker.
+Sprint Canoeing coach. Kayaker.
 
 Interested in focusing my career on cybersecurity, currently expanding my knowledge in this field through self-taught and academic means. Looking for a first professional opportunity to apply my technical skills and continue developing, preferably in the field of computer security. Always willing to work in a team, to share ideas and knowledge and to learn from others.
 
