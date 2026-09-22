@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hugo! 🦎</h1>
-<h3 align="center">Software Engineering Student @ University of Oviedo</h3>
+<h3 align="center">Software Engineering @ University of Oviedo</h3>
 
 <div>
   <img src="multimedia/banner.png">
